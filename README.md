@@ -28,7 +28,7 @@ The analysis includes:
 - Examination of author popularity
 - Insights into the relationship between book length and rating
 
-## Usage
+## Running the Notebook
 
 1. Install the required dependencies by running:
    ```bash
